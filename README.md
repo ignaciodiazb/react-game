@@ -10,3 +10,4 @@ This project is a game featured on React tutorial "Intro to React" (https://reac
 ### Features I added:
 
 - Location of every move (col/row format) is displayed in the move history list.
+- The active item in the history list gets a bold text and border style.
